@@ -1,6 +1,6 @@
 # 🛍️ Surf Winds
 
-A fully responsive, feature-rich clone of the **Aretto** e-commerce platform, built with a focus on clean UI, smooth user experience, and scalable architecture.
+A fully responsive, feature-rich clone of the **Surf winds** Travel platform, built with a focus on clean UI, smooth user experience, and scalable architecture.
 
 ---
 
@@ -14,13 +14,10 @@ A fully responsive, feature-rich clone of the **Aretto** e-commerce platform, bu
 
 - 🏠 **Home Page** — Hero banner, featured collections, and promotional sections
 - 🛒 **Product Listing** — Filter, sort, and browse products by category
-- 🔍 **Product Detail Page** — Image gallery, size selector, add to cart
-- 🛍️ **Shopping Cart** — Add, remove, and update product quantities
 - 💳 **Checkout Flow** — Address form, order summary, and payment UI
 - 👤 **User Authentication** — Sign up, login, and profile management
 - ❤️ **Wishlist** — Save favourite items for later
 - 📱 **Fully Responsive** — Optimized for mobile, tablet, and desktop
-- 🌙 **Dark / Light Mode** *(optional)* — Theme toggle support
 
 ---
 ## ⚡ Getting Started
